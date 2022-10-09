@@ -1,0 +1,90 @@
+.btn1{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+.main-alert{
+    width: 500px;
+    background-color: red;
+    height: 200px;
+    display: none;
+    margin-bottom: 20px;
+}
+
+.aler-1{
+    display: flex;
+    /* flex-wrap: wrap; */
+    position: relative;
+}
+
+.aler-1 h4{
+    width: 400px;
+    margin-bottom: 40px;
+    color: white;
+}
+.btn-2{
+    height: 200px;
+    width: 100px;
+    color: white;
+    background-color: rgb(150, 36, 36);
+}
+
+
+table{
+    background-color: red;
+    color: white;
+    
+}
+td{
+    padding: 5px 30px;
+}
+
+.btn-3{
+    background-color: black;
+    color: white;
+}
+
+
+.pos{
+    position: absolute;
+    bottom: 65px;
+    right: 88px;
+    
+}
+
+.btn-inner{
+    padding: 10px 22px;
+    background-color: rgb(150, 36, 36);
+    border: none;
+    color: white;
+}
+.main-acc{
+    margin-top: 10px;
+}
+
+.acc-1 h3{
+    background-color: red;
+     font-size: 30px;
+     margin: 0;
+     color: white;
+
+     /* margin-top: 10px; */
+}
+
+.acc-1 p{
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    display: none;
+
+}
+
+.acc-1{
+    margin-bottom: 5px;
+}
+
+
+
